@@ -78,7 +78,7 @@ To run the bundle with a CICS Program, you must have kept the `<CICS-MainClass>`
 
 5. Running the transaction will result in "Hello World!" being printed out to the JVM Server's `messages.log`.
 
-    ```sh
+    ```txt
     SystemOut                        O Hello World!
     ```
 
